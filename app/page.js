@@ -15,7 +15,7 @@ export default function Home() {
   }, []);
   return (
     <div>
-      <div className="flex relative inline-block pb-20">
+      <div className="flex relative inline-block">
         <div className="flex flex-row bg-[url('../public/Bg.png')] block w-full h-5/6">
           <div className="basis-1/4" data-aos="fade-right">
             <img src="/kaset1.png"></img>
