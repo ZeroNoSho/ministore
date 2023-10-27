@@ -1,8 +1,8 @@
 "use client";
-import Image from "next/image";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
+import Link from "next/link";
 
 export default function Home() {
   useEffect(() => {
@@ -68,10 +68,12 @@ export default function Home() {
                 src={"/main-event.png"}
                 className="absolute  top-[40%] right-[35%] w-[16%] max-[720px]:right-[30%] max-[720px]:w-[19%]"
               ></img>
-              <img
-                src={"/sotr.png"}
-                className="absolute  top-[41%] right-[55%] w-[17%] max-[720px]:right-[60%] max-[720px]:w-[20%]"
-              ></img>
+              <Link href={"/page"}>
+                <img
+                  src={"/sotr.png"}
+                  className="absolute  top-[41%] right-[55%] w-[17%] max-[720px]:right-[60%] max-[720px]:w-[20%]"
+                ></img>
+              </Link>
               <img
                 src={"/tanda-tanya.png"}
                 className="absolute  top-[8%] right-[27%] w-[17%]"
