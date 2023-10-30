@@ -29,3 +29,7 @@ body {
 .watermask {
   color: rgba(255, 255, 255, 0.766);
 }
+
+.width-m {
+  width: -moz-available;
+}

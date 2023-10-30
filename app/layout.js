@@ -1,5 +1,7 @@
 import { Inter } from "next/font/google";
+import Head from "next/head";
 import { Analytics } from "@vercel/analytics/react";
+
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -12,6 +14,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/logosola.png" type="image/png" sizes="32x32" />
+      </head>
       <body className={inter.className}>
         {children}
         <Analytics />
