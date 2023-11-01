@@ -304,31 +304,31 @@ export default function Home() {
                 height={"0"}
                 width={"1500"}
                 src={"/Contact-Us.png"}
-                className="absolute z-10 top-[0%] right-[0%] w-[100%] max-[720px]:w-[65%]"
+                className="absolute z-10 top-[0%] right-[0%] w-[100%] max-[720px]:w-[100%]"
               ></Image>
               <Image
                 alt="menu4"
                 height={"0"}
                 width={"1500"}
                 src={"/Sponsorship.png"}
-                className="absolute z-10 top-[35%] right-[50%] w-[20%] max-[720px]:w-[65%]"
+                className="absolute z-10 top-[35%] right-[50%] w-[20%] max-[720px]:w-[20%]"
               ></Image>
               <Image
                 alt="menu4"
                 height={"0"}
                 width={"1500"}
                 src={"/medpart.png"}
-                className="absolute z-10 top-[53%] right-[50%] w-[20%] max-[720px]:w-[65%]"
+                className="absolute z-10 top-[53%] right-[50%] w-[20%] max-[720px]:w-[20%]"
               ></Image>
 
               <Link
-                className="absolute z-10 top-[40%] right-[19%] w-[30%] font-black text-4xl text-pink-200 max-[720px]:w-[65%]"
+                className="absolute z-10 top-[40%] right-[19%] w-[30%] font-black text-4xl text-pink-200 max-[720px]:w-[30%]"
                 href={"https://wa.me/+6282113702768"}
               >
                 Nerima Syawalina
               </Link>
               <Link
-                className="absolute z-10 top-[57%] right-[19%] w-[30%] font-black text-4xl text-pink-200 max-[720px]:w-[65%]"
+                className="absolute z-10 top-[57%] right-[19%] w-[30%] font-black text-4xl text-pink-200 max-[720px]:w-[30%]"
                 href={"https://wa.me/+6287774014159"}
               >
                 Tiara Khalisa
@@ -340,7 +340,7 @@ export default function Home() {
                   height={"0"}
                   width={"1500"}
                   src={"/instagram.png"}
-                  className="absolute z-10 top-[68%] right-[63%] w-[6.8%] max-[720px]:w-[65%]"
+                  className="absolute z-10 top-[68%] right-[63%] w-[6.8%] max-[720px]:w-[6.8%]"
                 ></Image>
               </Link>
               <Link href={"mailto:solamarket.fikom@gmail.com"}>
@@ -349,7 +349,7 @@ export default function Home() {
                   height={"0"}
                   width={"1500"}
                   src={"/email.png"}
-                  className="absolute z-10 top-[67%] right-[54%] w-[7.5%] max-[720px]:w-[65%]"
+                  className="absolute z-10 top-[67%] right-[54%] w-[7.5%] max-[720px]:w-[7.5%]"
                 ></Image>
               </Link>
               <Link href={"https://www.linkedin.com/company/sola-market/"}>
@@ -358,7 +358,7 @@ export default function Home() {
                   height={"0"}
                   width={"1500"}
                   src={"/linkedin.png"}
-                  className="absolute z-10 top-[68%] right-[46.4%] w-[6.4%] max-[720px]:w-[65%]"
+                  className="absolute z-10 top-[68%] right-[46.4%] w-[6.4%] max-[720px]:w-[6.4%]"
                 ></Image>
               </Link>
               <Link href={"https://www.tiktok.com/@solamarket"}>
@@ -367,7 +367,7 @@ export default function Home() {
                   height={"0"}
                   width={"1500"}
                   src={"/tiktok.png"}
-                  className="absolute z-10 top-[68%] right-[38%] w-[6.4%] max-[720px]:w-[65%]"
+                  className="absolute z-10 top-[68%] right-[38%] w-[6.4%] max-[720px]:w-[6.4%]"
                 ></Image>
               </Link>
 
@@ -384,7 +384,7 @@ export default function Home() {
                 height={"0"}
                 width={"1500"}
                 src={"/Hp2.png"}
-                className="absolute bottom-[0%] left-[0%] w-[75%] max-[720px]:w-[30%]"
+                className="absolute bottom-[0%] left-[0%] w-[75%] max-[720px]:w-[75%]"
               ></Image>
               <Image
                 alt="menu4"
