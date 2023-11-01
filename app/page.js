@@ -321,17 +321,23 @@ export default function Home() {
                 className="absolute z-10 top-[53%] right-[50%] w-[20%] max-[720px]:w-[20%]"
               ></Image>
 
-              <Link
-                className="absolute z-10 top-[40%] right-[19%] w-[30%] font-black text-4xl text-pink-200 max-[720px]:w-[30%]"
-                href={"https://wa.me/+6282113702768"}
-              >
-                Nerima Syawalina
+              <Link href={"https://wa.me/+6282113702768"}>
+                <Image
+                  alt="menu4"
+                  height={"0"}
+                  width={"1500"}
+                  src={"/text1.png"}
+                  className="absolute z-10 top-[38%] right-[29%] w-[20%] max-[720px]:w-[20%]"
+                ></Image>
               </Link>
-              <Link
-                className="absolute z-10 top-[57%] right-[19%] w-[30%] font-black text-4xl text-pink-200 max-[720px]:w-[30%]"
-                href={"https://wa.me/+6287774014159"}
-              >
-                Tiara Khalisa
+              <Link href={"https://wa.me/+6287774014159"}>
+                <Image
+                  alt="menu4"
+                  height={"0"}
+                  width={"1500"}
+                  src={"/text2.png"}
+                  className="absolute z-10 top-[53%] right-[30%] w-[19%] max-[720px]:w-[19%]"
+                ></Image>
               </Link>
 
               <Link href={"https://www.instagram.com/sola__market/"}>
@@ -404,8 +410,8 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="fixed top-[50%] left-[25%] text-6xl font-bold watermask">
-        <h1 className="text-center">
+      <div className="fixed top-[50%] left-[25%] text-6xl font-bold watermask max-[720px]:text-2xl">
+        <h1 className="text-center ">
           Muhammad Ramada Aditya <br />
           (Watermask)
         </h1>
