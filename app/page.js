@@ -200,7 +200,7 @@ export default function Home() {
               data-aos="fade-right"
               src="/foot.png"
             ></Image>
-            <div data-aos="zoom-in-up" className="relative inline-block mb-96">
+            <div data-aos="zoom-in-up" className="relative inline-block mb-36">
               <Image
                 alt="menu4"
                 height={"0"}
@@ -270,6 +270,135 @@ export default function Home() {
                 width={"1500"}
                 src={"/CONTENT.png"}
                 className="absolute top-[45%] right-[5%] w-[90%] max-[720px]:w-[90%]"
+              ></Image>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div className="pt-0 max-[720px]:pt-10 max-[720px]:px-0 ">
+            <Image
+              className="width-m"
+              alt="menu4"
+              height={"0"}
+              width={"1500"}
+              data-aos="fade-right"
+              src="/foot.png"
+            ></Image>
+            <div data-aos="zoom-in-up" className="">
+              <Image
+                alt="menu4"
+                height={"0"}
+                width={"1500"}
+                src={"/ornamen-1.png"}
+                className="absolute z-10 top-[0%] right-[0%] w-[100%] max-[720px]:w-[100%]"
+              ></Image>
+              <Image
+                alt="menu4"
+                height={"0"}
+                width={"1500"}
+                src={"/awan1.png"}
+                className="absolute z-0 top-[0%] right-[0%] w-[100%] max-[720px]:w-[100%]"
+              ></Image>
+              <Image
+                alt="menu4"
+                height={"0"}
+                width={"1500"}
+                src={"/Contact-Us.png"}
+                className="absolute z-10 top-[0%] right-[0%] w-[100%] max-[720px]:w-[65%]"
+              ></Image>
+              <Image
+                alt="menu4"
+                height={"0"}
+                width={"1500"}
+                src={"/Sponsorship.png"}
+                className="absolute z-10 top-[35%] right-[50%] w-[20%] max-[720px]:w-[65%]"
+              ></Image>
+              <Image
+                alt="menu4"
+                height={"0"}
+                width={"1500"}
+                src={"/medpart.png"}
+                className="absolute z-10 top-[53%] right-[50%] w-[20%] max-[720px]:w-[65%]"
+              ></Image>
+
+              <Link
+                className="absolute z-10 top-[40%] right-[19%] w-[30%] font-black text-4xl text-pink-200 max-[720px]:w-[65%]"
+                href={"https://wa.me/+6282113702768"}
+              >
+                Nerima Syawalina
+              </Link>
+              <Link
+                className="absolute z-10 top-[57%] right-[19%] w-[30%] font-black text-4xl text-pink-200 max-[720px]:w-[65%]"
+                href={"https://wa.me/+6287774014159"}
+              >
+                Tiara Khalisa
+              </Link>
+
+              <Link href={"https://www.instagram.com/sola__market/"}>
+                <Image
+                  alt="menu4"
+                  height={"0"}
+                  width={"1500"}
+                  src={"/instagram.png"}
+                  className="absolute z-10 top-[68%] right-[63%] w-[6.8%] max-[720px]:w-[65%]"
+                ></Image>
+              </Link>
+              <Link href={"mailto:solamarket.fikom@gmail.com"}>
+                <Image
+                  alt="menu4"
+                  height={"0"}
+                  width={"1500"}
+                  src={"/email.png"}
+                  className="absolute z-10 top-[67%] right-[54%] w-[7.5%] max-[720px]:w-[65%]"
+                ></Image>
+              </Link>
+              <Link href={"https://www.linkedin.com/company/sola-market/"}>
+                <Image
+                  alt="menu4"
+                  height={"0"}
+                  width={"1500"}
+                  src={"/linkedin.png"}
+                  className="absolute z-10 top-[68%] right-[46.4%] w-[6.4%] max-[720px]:w-[65%]"
+                ></Image>
+              </Link>
+              <Link href={"https://www.tiktok.com/@solamarket"}>
+                <Image
+                  alt="menu4"
+                  height={"0"}
+                  width={"1500"}
+                  src={"/tiktok.png"}
+                  className="absolute z-10 top-[68%] right-[38%] w-[6.4%] max-[720px]:w-[65%]"
+                ></Image>
+              </Link>
+
+              <Image
+                alt="menu4"
+                height={"0"}
+                width={"1500"}
+                className="w-screen opacity-0"
+                src="/kosong.png"
+              ></Image>
+
+              <Image
+                alt="menu4"
+                height={"0"}
+                width={"1500"}
+                src={"/Hp2.png"}
+                className="absolute bottom-[0%] left-[0%] w-[75%] max-[720px]:w-[30%]"
+              ></Image>
+              <Image
+                alt="menu4"
+                height={"0"}
+                width={"1500"}
+                src={"/dcd.png"}
+                className="absolute bottom-[0%] right-[0%] w-[30%] max-[720px]:w-[30%]"
+              ></Image>
+              <Image
+                alt="menu4"
+                height={"0"}
+                width={"1500"}
+                src={"/dcd2.png"}
+                className="absolute top-[0%] lrft-[0%] w-[12%] max-[720px]:w-[12%]"
               ></Image>
             </div>
           </div>
