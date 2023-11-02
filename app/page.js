@@ -198,7 +198,7 @@ export default function Home() {
               height={"0"}
               width={"1500"}
               data-aos="fade-right"
-              src="/foot.png"
+              src="/running-text.png"
             ></Image>
             <div data-aos="zoom-in-up" className="relative inline-block mb-36">
               <Image
@@ -282,7 +282,7 @@ export default function Home() {
               height={"0"}
               width={"1500"}
               data-aos="fade-right"
-              src="/foot.png"
+              src="/running-text.png"
             ></Image>
             <div data-aos="zoom-in-up" className="">
               <Image
