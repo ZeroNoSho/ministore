@@ -410,12 +410,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="fixed top-[50%] left-[25%] text-6xl font-bold watermask max-[720px]:text-2xl">
-        <h1 className="text-center ">
-          Muhammad Ramada Aditya <br />
-          (Watermask)
-        </h1>
-      </div>
     </div>
   );
 }
